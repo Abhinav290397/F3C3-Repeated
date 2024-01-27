@@ -1,0 +1,9 @@
+#table{
+    border: 1px solid black;
+    width:60vw;
+    height: 50vh;
+}
+tr{
+    border: 1px solid black;
+    text-align: center;
+}
